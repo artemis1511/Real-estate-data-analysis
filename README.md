@@ -27,7 +27,7 @@ Wrote query to look at valuations of properties comparing price sold for to the 
 ![image](https://user-images.githubusercontent.com/107225504/226688417-bed9f677-71d2-43f3-a00a-b9c562e0b179.png)
 
 
-Queried data thoroughly to gain full understanding of it such as price in relation to various metrics such as property type,whether the properties were overpaid for ,owners with most properties owned.
+Queried data thoroughly to gain full understanding of it such as price in relation to various metrics such as property type,whether the properties were overpaid for ,owners with most properties owned
 and I was able to gain deep understanding of the dataset.The full query is contained in the file attached. 
 
 ## Data Visualization
