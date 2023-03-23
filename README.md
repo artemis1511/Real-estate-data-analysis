@@ -33,8 +33,8 @@ and I was able to gain deep understanding of the dataset.The full query is conta
 ## Data Visualization
 After concluding with the query I then connected SQL Server to PowerBI in order to visualise insights gained from the query as visualization is proven method of sharing insights.
 Report created in PowerBI is seen below and is also attached if you wish to interact with the report.
+![image](https://user-images.githubusercontent.com/107225504/227245743-335d60ed-a065-4566-a6b0-e699b66ac64a.png)
 
-![image](https://user-images.githubusercontent.com/107225504/226690120-c211345b-eb7c-4020-a45d-3f36457cf692.png)
 
 
 ## Conclusion
