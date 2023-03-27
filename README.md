@@ -8,20 +8,20 @@ Data was in csv file format opened it in MS Excel did some little cleaning saved
 ![ope](https://user-images.githubusercontent.com/107225504/226689468-203bb903-ac2a-4087-a023-0bf0cfcf93e8.jpg)
 
 ## Data cleaning
-Upon getting data into SQL Server initially selected all the data to take a look at what we are working with. then began to perform some data cleaning operations like updating null rows in property address using self-join ,seperating address data and some other changes to the data which can all be seen in the SQL script attached to this documentation to make it more suitable for analysis .
+Upon getting data into SQL Server initially selected all the data to take a look at what we are working with. Then began to perform some data cleaning operations like updating null rows in property address using self-join ,seperating address data and some other changes to the data in order to make analysis seamless which can all be seen in the SQL script attached to this documentation to make it more suitable for analysis .
 
 ## Exploratory Data Analysis
 * Taking a look at all the columns,first looked at the total value of properties
 
 ![image](https://user-images.githubusercontent.com/107225504/226691692-8aa9fe7f-8c03-4910-950b-9575490b04c6.png)
 
-* Also looked at no of homes bought empty in a view Home_Status
+* Also looked at no of homes that were empty when they were bought in a view Home_Status
 ![image](https://user-images.githubusercontent.com/107225504/226691583-61243110-2a67-4b31-bb22-d1044db91a09.png)
  
-* Querying for spread of properties across cities. Nashville with 71.33911624% of all properties across 13 cities
+* I queried the distribution  of properties across cities. Query shows Nashville with 71.33911624% of all properties across 13 cities
 ![image](https://user-images.githubusercontent.com/107225504/226693012-8604cf5f-ef2d-4213-8856-1d9057f06fb0.png)
 
-* Also made grouping of time of construction of buildings
+* I also made grouping as to time of construction of buildings
 
 ![image](https://user-images.githubusercontent.com/107225504/226691827-e3b2959f-b8d8-4024-824e-d845cfdd4d9c.png)
 
